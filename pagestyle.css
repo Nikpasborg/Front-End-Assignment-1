@@ -1,0 +1,213 @@
+.backgroundcolor {
+    background-color: rgb(42, 41, 41);
+    
+
+}
+
+#textinheader {
+    position: relative;
+    z-index: 10;
+    border-width: 20px; 
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.appheadertext {
+
+    position: relative;
+    z-index: 5;
+    padding: 33px;
+    padding-left: 80px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    background-color: rgb(170, 48, 26);
+
+
+}
+
+.appcartthing {
+
+
+    width: 180px;
+    padding: 6px;
+    background-color: rgb(101, 25, 12);
+    font-family: sans-serif;
+    padding-left: 40px;
+    color: whitesmoke;
+    border-radius: 29px;
+    display: inline;
+
+    position: absolute;
+    top: 17px;
+    right: 30px;
+
+
+}
+
+.appcartnumber {
+
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-block: 2px;
+    margin: 28px;
+    background-color: rgb(170, 48, 26);
+    font-family: sans-serif;
+    color: whitesmoke;
+    border-radius: 25px;
+
+
+}
+
+
+.bannerimage {
+
+    object-fit: cover;
+    margin-top: -47px;
+    height: 400px;
+    width: 100%;
+    transform: skewY(-2deg);
+
+    box-shadow: 12px 12px 20px black;
+}
+
+
+#firstboxtoptext {
+
+    position: relative;
+    margin: auto;
+    width: 60%;
+    margin-top: -90px;
+    width: 420px;
+    height: 150px;
+    padding: 30px;
+    background-color: rgb(101, 25, 12);
+    box-shadow: 12px 12px 20px black;
+    border-radius: 30px;
+    color: whitesmoke;
+    font-size: 26px;
+    font-family: sans-serif;
+    
+
+
+
+
+}
+
+#firstboxbottomtext {
+
+    padding-right: 39px;
+    color: whitesmoke;
+    font-size: 13px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+
+}
+
+#shoppinglist {
+
+
+    list-style-type: none;
+
+
+    z-index: 2;
+
+    font-size: 18px;
+
+    font-family: sans-serif;
+
+    width: 700px;
+    height: 420px;
+
+
+
+    border-radius: 30px;
+
+
+    padding: 30px;
+
+
+    left: 30%;
+    margin: auto;
+    margin-top: 40px;
+
+    background-color: white;
+
+
+
+    line-height: 1.8em;
+
+    box-shadow: 12px 12px 20px black;
+
+
+
+
+}
+
+#itemname {
+
+
+    font-weight: 600;
+    font-style: bold;
+
+}
+
+#itemprice {
+
+    border-bottom: 1px solid grey;
+    font-weight: 700;
+    color: darkgoldenrod;
+
+}
+
+#itemdesc {
+
+
+    font-style: oblique;
+    font-size: smaller;
+
+}
+
+#number {
+
+border-style: solid;
+border-width: 1px;
+border-color: lightgray;
+padding: 2px;
+padding-left: 3px;
+padding-right: 20px;
+
+margin: 30px;
+
+}
+
+#addbutton {
+
+    background-color: rgb(170, 48, 26);
+    color: white;
+    padding: 3px;
+    padding-left: 24px;
+    padding-right: 28px;
+    margin: 590px;
+    
+    
+    border-radius: 25px;
+
+
+    
+
+}
+
+#amounttext {
+
+    margin-top: -70px;
+
+    font-style: bold;
+    font-size: smaller;
+    text-align: right;
+
+}
